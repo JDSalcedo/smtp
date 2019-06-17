@@ -1,0 +1,2 @@
+chardet==3.0.4
+easyimap==0.6.3
