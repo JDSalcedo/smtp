@@ -4,8 +4,8 @@ import easyimap
 import imaplib
 import pprint
 
-imap_host = 'a2plcpnl0502.prod.iad2.secureserver.net'
-imap_user = 'compras@facturactiva.com.pe'
+imap_host = 'host'
+imap_user = 'xxx@xxx.com.pe'
 imap_pass = '123456'
 imap_port = 993
 
